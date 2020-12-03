@@ -21,7 +21,7 @@
 
 * `apt update`
 * `apt install git curl php openssh-server -y`
-* `git clone git://github.com/htr-tech/zphisher.git`
+* `git clone git://github.com/Maryanah33.gitpo`
 * `cd zphisher`
 #### > Run : `bash zphisher.sh`
 
